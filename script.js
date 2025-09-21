@@ -1,6 +1,7 @@
 const days = [
   {day:1, title:"Shailaputri(22-09-2025 )", short:"Goddess of the mountain", description:"Shailaputri, the first form of Durga, symbolizes strength and purity.", schedule:" 7:00 PM Onwards", image:"assets/day1.jpg", program:[
     "Morning Aarti - 7:30 AM – 8:30 AM",
+    "Morning Aarti - 7:30 AM – 8:30 AM",
     "Evening Aarti - 7:00 PM – 8:00 PM",
    "Event - Children Fancy Dress Competition - 08:00 PM -09:00 PM",
     "Gharba Night - 09:00 PM Onwards",
