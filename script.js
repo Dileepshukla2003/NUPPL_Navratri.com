@@ -1,6 +1,6 @@
 const days = [
   {day:1, title:"Shailaputri(22-09-2025 )", short:"Goddess of the mountain", description:"Shailaputri, the first form of Durga, symbolizes strength and purity.", schedule:" 7:00 PM Onwards", image:"assets/day1.jpg", program:[
-    "Morning Aarti - 7:30 AM – 8:30 AM",
+    "Pran Pratishtha - 6:30 AM Onwards",
     "Morning Aarti - 7:30 AM – 8:30 AM",
     "Evening Aarti - 7:00 PM – 8:00 PM",
    "Event - Children Fancy Dress Competition - 08:00 PM -09:00 PM",
@@ -70,7 +70,7 @@ const days = [
     "Event -  Ramleela (Part 1) - 08:00 PM -10:00 PM",
     "Gharba Night - 10:00 PM Onwards",
     "Dinner - 7:00 PM Onwards",
-   "Bhandara Menu - Methi Thepla, Gujrati Kadi, Sev Tamatar, Rice, Jalebi, Papad"
+  "Bhandara Menu - Idli / Masala Idli, Medu Vada, Pongal, Dal Paysam, Curd Rice, Sambhar / Rasam, Papad"
   ]},
   {day:7, title:" Kalaratri  (29-09-2025)", short:"Destroyer of darkness", description:"Kalaratri's night is for introspection.", schedule:" 7:00 PM Onwards", image:"assets/day7.jpg", program:[
     "Morning Aarti - 7:30 AM – 8:30 AM",
@@ -78,7 +78,8 @@ const days = [
     "Event -  Ramleela (Part 2) - 08:00 PM -10:00 PM",
     "Gharba Night - 10:00 PM Onwards",
     "Dinner - 7:00 PM Onwards",
-   "Bhandara Menu - Idli / Masala Idli, Medu Vada, Pongal, Dal Paysam, Curd Rice, Sambhar / Rasam, Papad"
+    "Bhandara Menu - Methi Thepla, Gujrati Kadi, Sev Tamatar, Rice, Jalebi, Papad"
+   
   ]},
   {day:8, title:"Mahagauri (30-09-2025)", short:"Goddess of serenity", description:"Mahagauri brings peace.", schedule:" 7:00 PM Onwards", image:"assets/day8.jpg", program:[
      "Morning Aarti - 7:30 AM – 8:30 AM",
