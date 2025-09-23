@@ -31,7 +31,7 @@ const days = [
     "Program : 24-09-2025",
     "Morning Aarti - 7:30 AM – 8:30 AM",
     "Evening Aarti - 7:00 PM – 8:00 PM",
-    "Event -  Dance teacher Performance - 08:00 PM -09:00 PM",
+    "Event -  Cultural & Family Events - 08:00 PM -09:00 PM",
     "Gharba Night - 09:00 PM Onwards",
     "Dinner - 7:00 PM Onwards",
     "Bhandara Menu - Gobhi Khichdi, Lebra Veg-Bengali, Begun Bhajja, Tamato Chutney, Rasgulla-White, Puri/Masla-Puri",
